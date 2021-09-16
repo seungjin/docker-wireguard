@@ -26,6 +26,7 @@ RUN \
 	jq \
 	libc6 \
 	libelf-dev \
+  nftables \
 	net-tools \
 	openresolv \
 	perl \
